@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/IBM-EPBL/IBM-Project-46735-1660755122/tree/main">
-    <img src="/Image content/logo.png" alt="logo" >
+    <img src="/Image content/logo.png" alt="logo" width="100" height="90" >
   </a>
 
 
