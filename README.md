@@ -1,6 +1,5 @@
+
 # IBM-Project-49529-1660822015
-Personal Expense Tracker Application
-# IBM-Project-46735-1660755122
 <h2>Personal Expense Tracker Application</h2>
 <!-- PROJECT LOGO -->
 
