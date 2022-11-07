@@ -8,12 +8,13 @@
     <img src="/Image content/logo.png" alt="logo" width="250" height="250" >
   </a>
 
-
+<h2>SHREENIVASA ENGINEERING COLLEGE</h2>
 ## 🧑🏻‍🦰 TEAM MEMBERS
 Team leader: SATHIYA S<br>
 Team member1: Aravind kumar R<br>
 Team member2: Abishek C<br>
 Team member3: Thirumalaivasan P<br>
+  <h2>SHREENIVASA ENGINEERING COLLEGE</h2>
 <hr>
 
 ## 📒 ASSIGNMENT FINISHED
