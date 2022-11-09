@@ -4,7 +4,8 @@
 <!-- PROJECT LOGO -->
 
 <p align="center">
-  <a href="https://github.com/IBM-EPBL/IBM-Project-46735-1660755122/tree/main">
+  <a href="https://github.com/IBM-EPBL/
+IBM-Project-49529-1660822015/tree/main">
     <img src="/Image content/logo.png" alt="logo" width="350" height="350" >
   </a>
 
